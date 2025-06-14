@@ -1,0 +1,49 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+title: Home
+---
+<head>
+<title>Home</title>
+</head>
+<div id="main-content" class="container align-items-center">
+        <h1 class="">James Posse Hunt</h1>
+        <h2 class="text-muted" style="font-size: 1.25rem;">(Legal name: James Posse Oliver)</h2>
+        <div class="row align-items-center mt-4">
+            <div class="col-md-3 text-center">
+                <img src="assets/james.jpg" alt="Portrait of James Posse Hunt" class="rounded img-fluid">
+            </div>
+            <div class="col-md-9">
+                <h4 class="text-secondary">Computing Graduate | Teacher | Irishman in Japan</h4>
+                <p>Graduate of Computing with Software Development  (BSc) from Technological
+                    University Dublin. 2 years of experience teaching STEAM (Science, Technology, Arts and Maths) at
+                    Citywise Education, and 7 months' experience teaching English at NOVA.</p>
+                <p>History, gaming, and sci-fi enthusiast with a love of travel.</p>
+                <p>Currently building a portfolio to transition back into technology.</p>
+                <div class="mt-4">
+                    <h5>Find Me Online</h5>
+                    <ul class="list-inline">
+                        <li class="list-inline-item">
+                            <a href="https://github.com/JamesPosseHunt" target="_blank" class="text-decoration-none">
+                                <i class="bi bi-github"></i> GitHub
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="https://linkedin.com/in/james-posse-hunt" target="_blank"
+                                class="text-decoration-none">
+                                <i class="bi bi-linkedin"></i> LinkedIn
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="mailto:jamesjordanpo@gmail.com" class="text-decoration-none">
+                                <i class="bi bi-envelope-fill"></i> Email
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    
