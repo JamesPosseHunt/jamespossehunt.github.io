@@ -30,7 +30,8 @@ twitter_username:
 github_username:  JamesPosseHunt
 
 # Build settings
-theme: 
+markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
 
