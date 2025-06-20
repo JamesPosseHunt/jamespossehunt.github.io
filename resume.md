@@ -60,7 +60,7 @@ title: Resume
       <tr>
       <td>STEAM Intern, <a href="https://www.citywise.ie">Citywise Education</a>, Tallaght, Dublin, Ireland</td>
       <td><ul><li>Assisting or personally delivering all STEAM (Science, Technology, Engineering, Arts and Maths)-based afterschool clubs.</li><li>Delivering 50 minute classes for CS Makers, a morning programme run in conjunction with local primary schools.</li><li>Planning content for Summer Camps, Code Club Seniors (an afterschool club teaching children industry languages such as Python, JavaScript and HTML), STEAM Masters (an afterschool club for a variety of STEAM topics) and Easter camps</li><li>Helping to Chaperone a trip to Cyprus, in partnership with <a href="https://roomforart.eu/">RoomForArt</a>, detailed <a href="https://roomforart.eu/steamproject.html">here.</a></li></ul></td>
-      <td>1st September 2022 - 31st July 2023</a></td>
+      <td>1st September 2022 - 31st July 2023</td>
       </tr>
     </tbody>
   </table>
