@@ -2,7 +2,6 @@
 layout: default
 title: Resume
 ---
-<title>Resume</title>
 
 <div id="personal">
   <h1>Personal Information</h1>
