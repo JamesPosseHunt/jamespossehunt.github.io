@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Portfolio"
-date:   2025-06-22 12:35
+date: 2025-06-22 12:35 +0900
 categories: update
 ---
 # Portfolio Updates
