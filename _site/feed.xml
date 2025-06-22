@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-20T13:02:00+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">James Posse Hunt</title><subtitle>Blog about my attempt to get back into tech. Also a portfolio.</subtitle><entry><title type="html">Welcome!</title><link href="http://localhost:4000/update/2025/06/15/welcome/" rel="alternate" type="text/html" title="Welcome!" /><published>2025-06-15T13:12:00+09:00</published><updated>2025-06-15T13:12:00+09:00</updated><id>http://localhost:4000/update/2025/06/15/welcome</id><content type="html" xml:base="http://localhost:4000/update/2025/06/15/welcome/"><![CDATA[<p>Welcome, and I hope you’re well.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-22T12:35:01+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">James Posse Hunt</title><subtitle>Blog about my attempt to get back into tech. Also a portfolio.</subtitle><entry><title type="html">Portfolio</title><link href="http://localhost:4000/update/2025/06/22/portfolio/" rel="alternate" type="text/html" title="Portfolio" /><published>2025-06-22T12:16:00+09:00</published><updated>2025-06-22T12:16:00+09:00</updated><id>http://localhost:4000/update/2025/06/22/portfolio</id><content type="html" xml:base="http://localhost:4000/update/2025/06/22/portfolio/"><![CDATA[<h1 id="portfolio-updates">Portfolio Updates</h1>
+
+<p>This week, I made progress on the site, adding the resume page.</p>
+
+<p>I also started working on the first app for my portfolio, which I call DD.</p>
+
+<h2 id="dd">DD</h2>
+<p>DD is a tool I started work on 3 years ago. I was starting to get into dungeons and dragons with my friends, and starting to run games in a class I taught at the time, STEAM Masters, after the children had finished their work. I, however, don’t have dice.
+My solution was to write a very simple program in Python using randint, and over time added Tkinter to give it a GUI.</p>
+
+<p><img src="/assets/DDPic.png" alt="DD UI Screenshot" />—
+layout: default
+title:  “Portfolio”
+date:   2025-06-22 12:16
+categories: update
+—</p>
+<h1 id="portfolio-updates-1">Portfolio Updates</h1>
+
+<p>This week, I made progress on the site, adding the resume page.</p>
+
+<p>I also started working on the first app for my portfolio, which I call DD.</p>
+
+<h2 id="dd-1">DD</h2>
+<p>DD is a tool I started work on 3 years ago. I was starting to get into dungeons and dragons with my friends, and starting to run games in a class I taught at the time, STEAM Masters, after the children had finished their work. I, however, don’t have dice.
+My solution was to write a very simple program in Python using randint, and over time added Tkinter to give it a GUI.</p>
+
+<p><img src="/assets/DDPic.png" /></p>
+
+<p>This gives me output like this:</p>
+
+<p><img src="/assets/DDPic2.png" /></p>
+
+<p>As well as this, it has half-baked character sheet functionality that I don’t believe I ever published as it was clearly unfinished.</p>
+
+<h3 id="so-whats-the-plan">So What’s the Plan?</h3>
+
+<p>A complete overhaul, starting from scratch with a new UI built in DearPyGui (credit to Github user hoffstadt, repo found <a href="https://github.com/hoffstadt/DearPyGui">here</a>), a new file structure, character management, modularity and more features in mind.</p>
+
+<p>I started the rebuild with the logic for dice rolling (the simple part) and will be working toward a first release soon - so stay tuned and once again thanks for reading!</p>]]></content><author><name></name></author><category term="update" /><summary type="html"><![CDATA[Portfolio Updates]]></summary></entry><entry><title type="html">Welcome!</title><link href="http://localhost:4000/update/2025/06/15/welcome/" rel="alternate" type="text/html" title="Welcome!" /><published>2025-06-15T13:12:00+09:00</published><updated>2025-06-15T13:12:00+09:00</updated><id>http://localhost:4000/update/2025/06/15/welcome</id><content type="html" xml:base="http://localhost:4000/update/2025/06/15/welcome/"><![CDATA[<p>Welcome, and I hope you’re well.
 This is my first time blogging seriously, and I hope to keep at it to keep myself accountable and give a glimpse into what I’m doing.</p>
 <h2 id="who-am-i">Who am I?</h2>
 <p>My name is James Posse Hunt. I’m an Irishman from Tallaght, living in Aichi, Japan. I work at an eikaiwa called NOVA until next week, have a BSc in Computing with Software Development and I’m looking to get back into tech, so the blog is intended as a way to keep a record of my work. My plan is weekly updates each Sunday.</p>
