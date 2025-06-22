@@ -14,23 +14,7 @@ I also started working on the first app for my portfolio, which I call DD.
 DD is a tool I started work on 3 years ago. I was starting to get into dungeons and dragons with my friends, and starting to run games in a class I taught at the time, STEAM Masters, after the children had finished their work. I, however, don't have dice.
 My solution was to write a very simple program in Python using randint, and over time added Tkinter to give it a GUI.
 
-<img src="/assets/DDPic.png" alt="DD UI Screenshot">---
-layout: default
-title:  "Portfolio"
-date:   2025-06-22 12:16
-categories: update
----
-# Portfolio Updates
-
-This week, I made progress on the site, adding the resume page.
-
-I also started working on the first app for my portfolio, which I call DD.
-
-## DD
-DD is a tool I started work on 3 years ago. I was starting to get into dungeons and dragons with my friends, and starting to run games in a class I taught at the time, STEAM Masters, after the children had finished their work. I, however, don't have dice.
-My solution was to write a very simple program in Python using randint, and over time added Tkinter to give it a GUI.
-
-<img src="/assets/DDPic.png">
+<img src="/assets/DDPic.png" alt="DD UI Screenshot">
 
 This gives me output like this:
 
