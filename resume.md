@@ -50,7 +50,7 @@ title: Resume
       <tr>
           <td>English Teacher, <a href="https://world-family.co.jp/">World Family</a>, Aichi, Japan</td>
           <td><ul><li>Teaching 50-minute in person lessons to babies, toddlers and older children using the World Family method.</li> <li>Teaching 25-minute online classes</li> <li>Preparing for lessons</li><li>Informing parents of their children's progress after classes</li></ul>
-          <td>29th September 2025 - Present</td>
+          <td>29th July 2025 - Present</td>
       </tr>
       <tr>
         <td>English Instructor, <a href="https://www.nova.co.jp/">NOVA</a>, Aichi, Japan</td>
