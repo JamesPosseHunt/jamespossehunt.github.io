@@ -31,7 +31,10 @@ title: Resume
         <td>Bachelor of Science in Computing with Software Development</td>
         <td><a href="https://www.tudublin.ie/" target="_blank">Technological University Dublin</a></td>
         <td>September 2018 – May 2022</td>
-   
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <div id="exp">
   <h1>Experience</h1>
@@ -46,7 +49,7 @@ title: Resume
     <tbody>
       <tr>
           <td>English Teacher, <a href="https://world-family.co.jp/">World Family</a>, Aichi, Japan</td>
-          <td><ul><li>Teaching 50-minute in person lessons to babies, toddlers and older children using the World Family method.</li> <li>Teaching 25-minute online classes</li> <li>Preparing for lessons</li><li>Informing parents of their children's progress after classes</li></ul>
+          <td><ul><li>Teaching 50-minute in person lessons to babies, toddlers and older children using the World Family method.</li> <li>Teaching 25-minute online classes</li> <li>Preparing for lessons</li><li>Informing parents of their children's progress after classes</li></ul></td>
           <td>29th July 2025 - Present</td>
       </tr>
       <tr>
