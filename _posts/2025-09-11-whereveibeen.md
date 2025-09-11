@@ -16,3 +16,7 @@ I'll say now that it did seem a pain in the ass. When I started I was sitting in
 Now though, things are getting better. The schedule's really good, I'm figuring out how to manage my time so I'm left time during the week to get these plans done, and I foresee becoming a lot more productive.
 
 So yeah, that's where I was. My next update should be on time next week. 
+
+Thanks for reading guys, all the best. 
+
+Slán go foill!
