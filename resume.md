@@ -31,10 +31,7 @@ title: Resume
         <td>Bachelor of Science in Computing with Software Development</td>
         <td><a href="https://www.tudublin.ie/" target="_blank">Technological University Dublin</a></td>
         <td>September 2018 – May 2022</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+   
 
 <div id="exp">
   <h1>Experience</h1>
